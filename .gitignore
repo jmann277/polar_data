@@ -1,3 +1,4 @@
 *.pyc
 env/
 .vs/
+_config.yml
